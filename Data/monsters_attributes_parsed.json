@@ -1,0 +1,5479 @@
+{
+  "_license": "Source: D&D System Reference Document v5.2.1, © Wizards of the Coast LLC, licensed under CC-BY 4.0. Re-published via the Open5e API (https://api.open5e.com/, document slug: wotc-srd), also under CC-BY 4.0.",
+  "monsters": [
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 10,
+      "id": "srd:awakened-shrub",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 11,
+          "dex": 8,
+          "int": 10,
+          "str": 3,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 3,
+      "id": "srd:baboon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 11,
+          "dex": 14,
+          "int": 4,
+          "str": 8,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 3,
+      "id": "srd:badger",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 12,
+          "dex": 11,
+          "int": 2,
+          "str": 4,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 1,
+      "id": "srd:bat",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 8,
+          "dex": 15,
+          "int": 2,
+          "str": 2,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 2,
+      "id": "srd:cat",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 10,
+          "dex": 15,
+          "int": 3,
+          "str": 3,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 4,
+      "id": "srd:commoner",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 10,
+          "dex": 10,
+          "int": 10,
+          "str": 10,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 2,
+      "id": "srd:crab",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 2,
+          "con": 10,
+          "dex": 11,
+          "int": 1,
+          "str": 2,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 4,
+      "id": "srd:deer",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 11,
+          "dex": 16,
+          "int": 2,
+          "str": 11,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 3,
+      "id": "srd:eagle",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 10,
+          "dex": 15,
+          "int": 2,
+          "str": 6,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 1,
+      "id": "srd:frog",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 8,
+          "dex": 13,
+          "int": 1,
+          "str": 1,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 4,
+      "id": "srd:giant-fire-beetle",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 12,
+          "dex": 10,
+          "int": 1,
+          "str": 8,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 4,
+      "id": "srd:goat",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 11,
+          "dex": 10,
+          "int": 2,
+          "str": 12,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 1,
+      "id": "srd:hawk",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 8,
+          "dex": 16,
+          "int": 2,
+          "str": 5,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 5,
+      "id": "srd:homunculus",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 11,
+          "dex": 15,
+          "int": 10,
+          "str": 4,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 5,
+      "id": "srd:hyena",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 12,
+          "dex": 13,
+          "int": 2,
+          "str": 11,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 3,
+      "id": "srd:jackal",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 11,
+          "dex": 15,
+          "int": 3,
+          "str": 8,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 13,
+      "id": "srd:lemure",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 11,
+          "dex": 5,
+          "int": 1,
+          "str": 10,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 2,
+      "id": "srd:lizard",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 10,
+          "dex": 11,
+          "int": 1,
+          "str": 2,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 3,
+      "id": "srd:octopus",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 11,
+          "dex": 15,
+          "int": 3,
+          "str": 4,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 1,
+      "id": "srd:owl",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 8,
+          "dex": 13,
+          "int": 2,
+          "str": 3,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 1,
+      "id": "srd:quipper",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 2,
+          "con": 9,
+          "dex": 16,
+          "int": 1,
+          "str": 2,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 1,
+      "id": "srd:rat",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 9,
+          "dex": 11,
+          "int": 2,
+          "str": 2,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 1,
+      "id": "srd:raven",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 8,
+          "dex": 14,
+          "int": 2,
+          "str": 2,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 1,
+      "id": "srd:scorpion",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 2,
+          "con": 8,
+          "dex": 11,
+          "int": 1,
+          "str": 2,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 1,
+      "id": "srd:sea-horse",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 2,
+          "con": 8,
+          "dex": 12,
+          "int": 1,
+          "str": 1,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 13,
+      "id": "srd:shrieker",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 10,
+          "dex": 1,
+          "int": 1,
+          "str": 1,
+          "wis": 3
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 1,
+      "id": "srd:spider",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 2,
+          "con": 8,
+          "dex": 14,
+          "int": 1,
+          "str": 2,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 5,
+      "id": "srd:vulture",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 13,
+          "dex": 10,
+          "int": 2,
+          "str": 7,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.0,
+      "hp_max": 1,
+      "id": "srd:weasel",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 8,
+          "dex": 16,
+          "int": 2,
+          "str": 3,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 11,
+      "id": "srd:bandit",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 12,
+          "dex": 12,
+          "int": 10,
+          "str": 11,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 7,
+      "id": "srd:blood-hawk",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 10,
+          "dex": 14,
+          "int": 3,
+          "str": 6,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 15,
+      "id": "srd:camel",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 14,
+          "dex": 8,
+          "int": 2,
+          "str": 16,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 9,
+      "id": "srd:cultist",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 10,
+          "dex": 12,
+          "int": 10,
+          "str": 11,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 5,
+      "id": "srd:flying-snake",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 11,
+          "dex": 18,
+          "int": 2,
+          "str": 4,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 13,
+      "id": "srd:giant-crab",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 11,
+          "dex": 15,
+          "int": 1,
+          "str": 13,
+          "wis": 9
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 7,
+      "id": "srd:giant-rat",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 11,
+          "dex": 15,
+          "int": 2,
+          "str": 7,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 7,
+      "id": "srd:giant-rat-diseased",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 11,
+          "dex": 15,
+          "int": 2,
+          "str": 7,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 9,
+      "id": "srd:giant-weasel",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 10,
+          "dex": 16,
+          "int": 4,
+          "str": 11,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 11,
+      "id": "srd:guard",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 12,
+          "dex": 12,
+          "int": 10,
+          "str": 13,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 5,
+      "id": "srd:kobold",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 9,
+          "dex": 15,
+          "int": 8,
+          "str": 7,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 5,
+      "id": "srd:mastiff",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 12,
+          "dex": 14,
+          "int": 3,
+          "str": 13,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 11,
+      "id": "srd:merfolk",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 12,
+          "dex": 13,
+          "int": 11,
+          "str": 10,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 11,
+      "id": "srd:mule",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 13,
+          "dex": 10,
+          "int": 2,
+          "str": 14,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 9,
+      "id": "srd:noble",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 11,
+          "dex": 12,
+          "int": 12,
+          "str": 11,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 2,
+      "id": "srd:poisonous-snake",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 11,
+          "dex": 16,
+          "int": 1,
+          "str": 2,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 11,
+      "id": "srd:pony",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 13,
+          "dex": 10,
+          "int": 2,
+          "str": 15,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 2,
+      "id": "srd:stirge",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 11,
+          "dex": 16,
+          "int": 2,
+          "str": 4,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.125,
+      "hp_max": 11,
+      "id": "srd:tribal-warrior",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 12,
+          "dex": 11,
+          "int": 8,
+          "str": 13,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 9,
+      "id": "srd:acolyte",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 10,
+          "dex": 10,
+          "int": 10,
+          "str": 10,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 19,
+      "id": "srd:axe-beak",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 12,
+          "dex": 12,
+          "int": 2,
+          "str": 14,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 22,
+      "id": "srd:blink-dog",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 12,
+          "dex": 17,
+          "int": 10,
+          "str": 12,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 11,
+      "id": "srd:boar",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 12,
+          "dex": 11,
+          "int": 2,
+          "str": 13,
+          "wis": 9
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 13,
+      "id": "srd:constrictor-snake",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 12,
+          "dex": 14,
+          "int": 1,
+          "str": 15,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 19,
+      "id": "srd:draft-horse",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 12,
+          "dex": 10,
+          "int": 2,
+          "str": 18,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 18,
+      "id": "srd:dretch",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 12,
+          "dex": 11,
+          "int": 5,
+          "str": 11,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 13,
+      "id": "srd:drow",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 10,
+          "dex": 14,
+          "int": 11,
+          "str": 10,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 13,
+      "id": "srd:elk",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 12,
+          "dex": 10,
+          "int": 2,
+          "str": 16,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 17,
+      "id": "srd:flying-sword",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 11,
+          "dex": 15,
+          "int": 1,
+          "str": 12,
+          "wis": 5
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 13,
+      "id": "srd:giant-badger",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 15,
+          "dex": 10,
+          "int": 2,
+          "str": 13,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 22,
+      "id": "srd:giant-bat",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 11,
+          "dex": 16,
+          "int": 2,
+          "str": 15,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 4,
+      "id": "srd:giant-centipede",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 12,
+          "dex": 14,
+          "int": 1,
+          "str": 5,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 18,
+      "id": "srd:giant-frog",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 11,
+          "dex": 13,
+          "int": 2,
+          "str": 12,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 19,
+      "id": "srd:giant-lizard",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 13,
+          "dex": 12,
+          "int": 2,
+          "str": 15,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 19,
+      "id": "srd:giant-owl",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 12,
+          "dex": 15,
+          "int": 8,
+          "str": 13,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 11,
+      "id": "srd:giant-poisonous-snake",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 13,
+          "dex": 18,
+          "int": 2,
+          "str": 10,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 11,
+      "id": "srd:giant-wolf-spider",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 13,
+          "dex": 16,
+          "int": 3,
+          "str": 12,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 7,
+      "id": "srd:goblin",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 10,
+          "dex": 14,
+          "int": 10,
+          "str": 8,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 11,
+      "id": "srd:grimlock",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 12,
+          "dex": 12,
+          "int": 9,
+          "str": 16,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 13,
+      "id": "srd:panther",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 10,
+          "dex": 15,
+          "int": 3,
+          "str": 14,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 7,
+      "id": "srd:pseudodragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 13,
+          "dex": 15,
+          "int": 10,
+          "str": 6,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 13,
+      "id": "srd:riding-horse",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 12,
+          "dex": 10,
+          "int": 2,
+          "str": 16,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 13,
+      "id": "srd:skeleton",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 15,
+          "dex": 14,
+          "int": 6,
+          "str": 10,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 2,
+      "id": "srd:sprite",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 10,
+          "dex": 18,
+          "int": 14,
+          "str": 3,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 21,
+      "id": "srd:steam-mephit",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 10,
+          "dex": 11,
+          "int": 11,
+          "str": 5,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 22,
+      "id": "srd:swarm-of-bats",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 10,
+          "dex": 15,
+          "int": 2,
+          "str": 5,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 24,
+      "id": "srd:swarm-of-rats",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 9,
+          "dex": 11,
+          "int": 2,
+          "str": 9,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 24,
+      "id": "srd:swarm-of-ravens",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 8,
+          "dex": 14,
+          "int": 3,
+          "str": 6,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 18,
+      "id": "srd:violet-fungus",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 10,
+          "dex": 1,
+          "int": 1,
+          "str": 3,
+          "wis": 3
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 11,
+      "id": "srd:wolf",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 12,
+          "dex": 15,
+          "int": 3,
+          "str": 12,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.25,
+      "hp_max": 22,
+      "id": "srd:zombie",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 16,
+          "dex": 6,
+          "int": 3,
+          "str": 13,
+          "wis": 6
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 19,
+      "id": "srd:ape",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 14,
+          "dex": 14,
+          "int": 6,
+          "str": 16,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 19,
+      "id": "srd:black-bear",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 14,
+          "dex": 10,
+          "int": 2,
+          "str": 15,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 27,
+      "id": "srd:cockatrice",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 12,
+          "dex": 12,
+          "int": 2,
+          "str": 6,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 19,
+      "id": "srd:crocodile",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 13,
+          "dex": 10,
+          "int": 2,
+          "str": 15,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:darkmantle",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 13,
+          "dex": 12,
+          "int": 2,
+          "str": 16,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 16,
+      "id": "srd:deep-gnome-svirfneblin",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 9,
+          "con": 14,
+          "dex": 14,
+          "int": 12,
+          "str": 15,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 17,
+      "id": "srd:dust-mephit",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 10,
+          "dex": 14,
+          "int": 9,
+          "str": 5,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 19,
+      "id": "srd:giant-goat",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 12,
+          "dex": 11,
+          "int": 3,
+          "str": 17,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 16,
+      "id": "srd:giant-sea-horse",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 11,
+          "dex": 15,
+          "int": 2,
+          "str": 12,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 13,
+      "id": "srd:giant-wasp",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 10,
+          "dex": 14,
+          "int": 1,
+          "str": 10,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:gnoll",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 11,
+          "dex": 12,
+          "int": 6,
+          "str": 14,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:gray-ooze",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 2,
+          "con": 16,
+          "dex": 6,
+          "int": 1,
+          "str": 12,
+          "wis": 6
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 11,
+      "id": "srd:hobgoblin",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 9,
+          "con": 12,
+          "dex": 12,
+          "int": 10,
+          "str": 13,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 21,
+      "id": "srd:ice-mephit",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 10,
+          "dex": 13,
+          "int": 9,
+          "str": 7,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:lizardfolk",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 13,
+          "dex": 10,
+          "int": 7,
+          "str": 15,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:magma-mephit",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 12,
+          "dex": 12,
+          "int": 7,
+          "str": 8,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 9,
+      "id": "srd:magmin",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 12,
+          "dex": 15,
+          "int": 8,
+          "str": 7,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 15,
+      "id": "srd:orc",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 16,
+          "dex": 12,
+          "int": 7,
+          "str": 16,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:reef-shark",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 13,
+          "dex": 13,
+          "int": 1,
+          "str": 14,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 27,
+      "id": "srd:rust-monster",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 13,
+          "dex": 12,
+          "int": 2,
+          "str": 13,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:sahuagin",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 9,
+          "con": 12,
+          "dex": 11,
+          "int": 12,
+          "str": 13,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 31,
+      "id": "srd:satyr",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 14,
+          "con": 11,
+          "dex": 16,
+          "int": 12,
+          "str": 12,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 16,
+      "id": "srd:scout",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 12,
+          "dex": 14,
+          "int": 11,
+          "str": 11,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 16,
+      "id": "srd:shadow",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 13,
+          "dex": 14,
+          "int": 6,
+          "str": 6,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:swarm-of-beetles",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 10,
+          "dex": 13,
+          "int": 1,
+          "str": 3,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:swarm-of-centipedes",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 10,
+          "dex": 13,
+          "int": 1,
+          "str": 3,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:swarm-of-insects",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 10,
+          "dex": 13,
+          "int": 1,
+          "str": 3,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:swarm-of-spiders",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 10,
+          "dex": 13,
+          "int": 1,
+          "str": 3,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:swarm-of-wasps",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 10,
+          "dex": 13,
+          "int": 1,
+          "str": 3,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 32,
+      "id": "srd:thug",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 14,
+          "dex": 11,
+          "int": 10,
+          "str": 15,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 19,
+      "id": "srd:warhorse",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 13,
+          "dex": 12,
+          "int": 2,
+          "str": 18,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 22,
+      "id": "srd:warhorse-skeleton",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 15,
+          "dex": 12,
+          "int": 2,
+          "str": 18,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 0.5,
+      "hp_max": 26,
+      "id": "srd:worg",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 13,
+          "dex": 13,
+          "int": 7,
+          "str": 16,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 33,
+      "id": "srd:animated-armor",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 13,
+          "dex": 11,
+          "int": 1,
+          "str": 14,
+          "wis": 3
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 16,
+      "id": "srd:brass-dragon-wyrmling",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 13,
+          "con": 13,
+          "dex": 10,
+          "int": 10,
+          "str": 15,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 34,
+      "id": "srd:brown-bear",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 16,
+          "dex": 10,
+          "int": 2,
+          "str": 19,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 27,
+      "id": "srd:bugbear",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 9,
+          "con": 13,
+          "dex": 14,
+          "int": 8,
+          "str": 15,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 22,
+      "id": "srd:copper-dragon-wyrmling",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 13,
+          "con": 13,
+          "dex": 12,
+          "int": 14,
+          "str": 15,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 39,
+      "id": "srd:death-dog",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 14,
+          "dex": 14,
+          "int": 3,
+          "str": 15,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 37,
+      "id": "srd:dire-wolf",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 15,
+          "dex": 15,
+          "int": 3,
+          "str": 17,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 22,
+      "id": "srd:dryad",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 18,
+          "con": 11,
+          "dex": 12,
+          "int": 14,
+          "str": 10,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 26,
+      "id": "srd:duergar",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 9,
+          "con": 14,
+          "dex": 11,
+          "int": 11,
+          "str": 14,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 22,
+      "id": "srd:ghoul",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 10,
+          "dex": 15,
+          "int": 7,
+          "str": 13,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 26,
+      "id": "srd:giant-eagle",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 13,
+          "dex": 17,
+          "int": 8,
+          "str": 16,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 45,
+      "id": "srd:giant-hyena",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 14,
+          "dex": 14,
+          "int": 2,
+          "str": 16,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 52,
+      "id": "srd:giant-octopus",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 13,
+          "dex": 13,
+          "int": 4,
+          "str": 17,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 26,
+      "id": "srd:giant-spider",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 12,
+          "dex": 16,
+          "int": 2,
+          "str": 14,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 39,
+      "id": "srd:giant-toad",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 13,
+          "dex": 13,
+          "int": 2,
+          "str": 15,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 22,
+      "id": "srd:giant-vulture",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 15,
+          "dex": 10,
+          "int": 6,
+          "str": 15,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 38,
+      "id": "srd:harpy",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 13,
+          "con": 12,
+          "dex": 13,
+          "int": 7,
+          "str": 12,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 19,
+      "id": "srd:hippogriff",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 13,
+          "dex": 13,
+          "int": 2,
+          "str": 17,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 10,
+      "id": "srd:imp",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 14,
+          "con": 13,
+          "dex": 17,
+          "int": 11,
+          "str": 6,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 26,
+      "id": "srd:lion",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 13,
+          "dex": 15,
+          "int": 3,
+          "str": 17,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 7,
+      "id": "srd:quasit",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 10,
+          "dex": 17,
+          "int": 7,
+          "str": 5,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 22,
+      "id": "srd:specter",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 11,
+          "dex": 14,
+          "int": 10,
+          "str": 1,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 27,
+      "id": "srd:spy",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 10,
+          "dex": 15,
+          "int": 12,
+          "str": 10,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 28,
+      "id": "srd:swarm-of-quippers",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 2,
+          "con": 9,
+          "dex": 16,
+          "int": 1,
+          "str": 13,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 1.0,
+      "hp_max": 37,
+      "id": "srd:tiger",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 14,
+          "dex": 15,
+          "int": 3,
+          "str": 17,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 39,
+      "id": "srd:ankheg",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 13,
+          "dex": 11,
+          "int": 1,
+          "str": 17,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 59,
+      "id": "srd:awakened-tree",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 15,
+          "dex": 6,
+          "int": 10,
+          "str": 19,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 39,
+      "id": "srd:azer",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 15,
+          "dex": 12,
+          "int": 12,
+          "str": 17,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 65,
+      "id": "srd:bandit-captain",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 14,
+          "con": 14,
+          "dex": 16,
+          "int": 14,
+          "str": 15,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 67,
+      "id": "srd:berserker",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 9,
+          "con": 17,
+          "dex": 12,
+          "int": 9,
+          "str": 16,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 33,
+      "id": "srd:black-dragon-wyrmling",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 13,
+          "con": 13,
+          "dex": 14,
+          "int": 10,
+          "str": 15,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 32,
+      "id": "srd:bronze-dragon-wyrmling",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 15,
+          "dex": 10,
+          "int": 12,
+          "str": 17,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 45,
+      "id": "srd:centaur",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 14,
+          "dex": 14,
+          "int": 9,
+          "str": 18,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 22,
+      "id": "srd:cult-fanatic",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 14,
+          "con": 12,
+          "dex": 14,
+          "int": 10,
+          "str": 11,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 27,
+      "id": "srd:druid",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 13,
+          "dex": 12,
+          "int": 12,
+          "str": 10,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 44,
+      "id": "srd:ettercap",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 13,
+          "dex": 15,
+          "int": 7,
+          "str": 14,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 52,
+      "id": "srd:gargoyle",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 16,
+          "dex": 11,
+          "int": 6,
+          "str": 15,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 84,
+      "id": "srd:gelatinous-cube",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 20,
+          "dex": 3,
+          "int": 1,
+          "str": 14,
+          "wis": 6
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 36,
+      "id": "srd:ghast",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 10,
+          "dex": 17,
+          "int": 11,
+          "str": 16,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 42,
+      "id": "srd:giant-boar",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 16,
+          "dex": 10,
+          "int": 2,
+          "str": 17,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 60,
+      "id": "srd:giant-constrictor-snake",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 12,
+          "dex": 14,
+          "int": 1,
+          "str": 19,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 42,
+      "id": "srd:giant-elk",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 14,
+          "dex": 16,
+          "int": 7,
+          "str": 19,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 67,
+      "id": "srd:gibbering-mouther",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 16,
+          "dex": 8,
+          "int": 3,
+          "str": 10,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 38,
+      "id": "srd:green-dragon-wyrmling",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 13,
+          "con": 13,
+          "dex": 12,
+          "int": 14,
+          "str": 15,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 27,
+      "id": "srd:grick",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 11,
+          "dex": 14,
+          "int": 3,
+          "str": 14,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 59,
+      "id": "srd:griffon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 16,
+          "dex": 15,
+          "int": 2,
+          "str": 18,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 45,
+      "id": "srd:hunter-shark",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 15,
+          "dex": 13,
+          "int": 1,
+          "str": 18,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 45,
+      "id": "srd:merrow",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 9,
+          "con": 15,
+          "dex": 10,
+          "int": 8,
+          "str": 18,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 58,
+      "id": "srd:mimic",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 15,
+          "dex": 12,
+          "int": 5,
+          "str": 17,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 67,
+      "id": "srd:minotaur-skeleton",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 15,
+          "dex": 11,
+          "int": 6,
+          "str": 18,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 45,
+      "id": "srd:ochre-jelly",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 14,
+          "dex": 6,
+          "int": 2,
+          "str": 15,
+          "wis": 6
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 59,
+      "id": "srd:ogre",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 16,
+          "dex": 8,
+          "int": 5,
+          "str": 19,
+          "wis": 7
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 85,
+      "id": "srd:ogre-zombie",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 18,
+          "dex": 6,
+          "int": 3,
+          "str": 19,
+          "wis": 6
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 59,
+      "id": "srd:pegasus",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 13,
+          "con": 16,
+          "dex": 15,
+          "int": 10,
+          "str": 18,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 68,
+      "id": "srd:plesiosaurus",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 16,
+          "dex": 15,
+          "int": 2,
+          "str": 18,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 42,
+      "id": "srd:polar-bear",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 16,
+          "dex": 10,
+          "int": 2,
+          "str": 20,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 27,
+      "id": "srd:priest",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 13,
+          "con": 12,
+          "dex": 10,
+          "int": 13,
+          "str": 10,
+          "wis": 16
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 45,
+      "id": "srd:rhinoceros",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 15,
+          "dex": 8,
+          "int": 2,
+          "str": 21,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 33,
+      "id": "srd:rug-of-smothering",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 10,
+          "dex": 14,
+          "int": 1,
+          "str": 17,
+          "wis": 3
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 52,
+      "id": "srd:saber-toothed-tiger",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 15,
+          "dex": 14,
+          "int": 3,
+          "str": 18,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 52,
+      "id": "srd:sea-hag",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 13,
+          "con": 16,
+          "dex": 13,
+          "int": 12,
+          "str": 16,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 45,
+      "id": "srd:silver-dragon-wyrmling",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 17,
+          "dex": 10,
+          "int": 12,
+          "str": 19,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 36,
+      "id": "srd:swarm-of-poisonous-snakes",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 11,
+          "dex": 18,
+          "int": 1,
+          "str": 8,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 33,
+      "id": "srd:wererat",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 12,
+          "dex": 15,
+          "int": 11,
+          "str": 10,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 32,
+      "id": "srd:white-dragon-wyrmling",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 14,
+          "dex": 10,
+          "int": 5,
+          "str": 14,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 2.0,
+      "hp_max": 22,
+      "id": "srd:will-o-wisp",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 10,
+          "dex": 28,
+          "int": 13,
+          "str": 1,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 52,
+      "id": "srd:basilisk",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 15,
+          "dex": 8,
+          "int": 2,
+          "str": 16,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 52,
+      "id": "srd:bearded-devil",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 15,
+          "dex": 15,
+          "int": 9,
+          "str": 16,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 52,
+      "id": "srd:blue-dragon-wyrmling",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 15,
+          "dex": 10,
+          "int": 12,
+          "str": 17,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 52,
+      "id": "srd:doppelganger",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 14,
+          "con": 14,
+          "dex": 18,
+          "int": 11,
+          "str": 11,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 52,
+      "id": "srd:giant-scorpion",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 15,
+          "dex": 13,
+          "int": 1,
+          "str": 15,
+          "wis": 9
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 60,
+      "id": "srd:gold-dragon-wyrmling",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 17,
+          "dex": 14,
+          "int": 14,
+          "str": 19,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 82,
+      "id": "srd:green-hag",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 14,
+          "con": 16,
+          "dex": 12,
+          "int": 13,
+          "str": 18,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 45,
+      "id": "srd:hell-hound",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 14,
+          "dex": 12,
+          "int": 6,
+          "str": 17,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 90,
+      "id": "srd:killer-whale",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 13,
+          "dex": 10,
+          "int": 3,
+          "str": 19,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 52,
+      "id": "srd:knight",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 14,
+          "dex": 11,
+          "int": 11,
+          "str": 16,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 68,
+      "id": "srd:manticore",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 17,
+          "dex": 16,
+          "int": 7,
+          "str": 17,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 76,
+      "id": "srd:minotaur",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 9,
+          "con": 16,
+          "dex": 11,
+          "int": 6,
+          "str": 18,
+          "wis": 16
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 58,
+      "id": "srd:mummy",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 15,
+          "dex": 8,
+          "int": 6,
+          "str": 16,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 68,
+      "id": "srd:nightmare",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 16,
+          "dex": 15,
+          "int": 10,
+          "str": 18,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 59,
+      "id": "srd:owlbear",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 17,
+          "dex": 12,
+          "int": 3,
+          "str": 20,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 32,
+      "id": "srd:phase-spider",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 12,
+          "dex": 15,
+          "int": 6,
+          "str": 15,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 58,
+      "id": "srd:veteran",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 14,
+          "dex": 13,
+          "int": 10,
+          "str": 16,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 58,
+      "id": "srd:werewolf",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 14,
+          "dex": 13,
+          "int": 10,
+          "str": 15,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 45,
+      "id": "srd:wight",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 16,
+          "dex": 14,
+          "int": 10,
+          "str": 15,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 3.0,
+      "hp_max": 75,
+      "id": "srd:winter-wolf",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 14,
+          "dex": 13,
+          "int": 7,
+          "str": 18,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 4.0,
+      "hp_max": 85,
+      "id": "srd:black-pudding",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 16,
+          "dex": 5,
+          "int": 1,
+          "str": 16,
+          "wis": 6
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 4.0,
+      "hp_max": 93,
+      "id": "srd:chuul",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 16,
+          "dex": 10,
+          "int": 5,
+          "str": 19,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 4.0,
+      "hp_max": 97,
+      "id": "srd:couatl",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 18,
+          "con": 17,
+          "dex": 20,
+          "int": 18,
+          "str": 16,
+          "wis": 20
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 4.0,
+      "hp_max": 76,
+      "id": "srd:elephant",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 17,
+          "dex": 9,
+          "int": 3,
+          "str": 22,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 4.0,
+      "hp_max": 85,
+      "id": "srd:ettin",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 17,
+          "dex": 8,
+          "int": 6,
+          "str": 21,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 4.0,
+      "hp_max": 45,
+      "id": "srd:ghost",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 17,
+          "con": 10,
+          "dex": 13,
+          "int": 10,
+          "str": 7,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 4.0,
+      "hp_max": 97,
+      "id": "srd:lamia",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 15,
+          "dex": 13,
+          "int": 14,
+          "str": 16,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 4.0,
+      "hp_max": 75,
+      "id": "srd:red-dragon-wyrmling",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 17,
+          "dex": 10,
+          "int": 12,
+          "str": 19,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 4.0,
+      "hp_max": 66,
+      "id": "srd:succubusincubus",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 20,
+          "con": 13,
+          "dex": 17,
+          "int": 15,
+          "str": 8,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 4.0,
+      "hp_max": 78,
+      "id": "srd:wereboar",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 15,
+          "dex": 10,
+          "int": 10,
+          "str": 17,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 4.0,
+      "hp_max": 120,
+      "id": "srd:weretiger",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 16,
+          "dex": 15,
+          "int": 10,
+          "str": 17,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 90,
+      "id": "srd:air-elemental",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 14,
+          "dex": 20,
+          "int": 6,
+          "str": 14,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 110,
+      "id": "srd:barbed-devil",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 14,
+          "con": 18,
+          "dex": 17,
+          "int": 12,
+          "str": 16,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 94,
+      "id": "srd:bulette",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 21,
+          "dex": 11,
+          "int": 2,
+          "str": 19,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 126,
+      "id": "srd:earth-elemental",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 20,
+          "dex": 8,
+          "int": 5,
+          "str": 20,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 102,
+      "id": "srd:fire-elemental",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 16,
+          "dex": 17,
+          "int": 6,
+          "str": 10,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 93,
+      "id": "srd:flesh-golem",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 18,
+          "dex": 9,
+          "int": 6,
+          "str": 19,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 85,
+      "id": "srd:giant-crocodile",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 17,
+          "dex": 9,
+          "int": 2,
+          "str": 21,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 126,
+      "id": "srd:giant-shark",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 21,
+          "dex": 11,
+          "int": 1,
+          "str": 23,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 112,
+      "id": "srd:gladiator",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 16,
+          "dex": 15,
+          "int": 10,
+          "str": 18,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 114,
+      "id": "srd:gorgon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 18,
+          "dex": 11,
+          "int": 2,
+          "str": 20,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 65,
+      "id": "srd:half-red-dragon-veteran",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 14,
+          "dex": 13,
+          "int": 10,
+          "str": 16,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 105,
+      "id": "srd:hill-giant",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 19,
+          "dex": 8,
+          "int": 5,
+          "str": 21,
+          "wis": 9
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 112,
+      "id": "srd:night-hag",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 16,
+          "dex": 15,
+          "int": 16,
+          "str": 18,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 114,
+      "id": "srd:otyugh",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 19,
+          "dex": 11,
+          "int": 6,
+          "str": 16,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 93,
+      "id": "srd:roper",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 17,
+          "dex": 8,
+          "int": 7,
+          "str": 18,
+          "wis": 16
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 90,
+      "id": "srd:salamander",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 15,
+          "dex": 14,
+          "int": 11,
+          "str": 18,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 136,
+      "id": "srd:shambling-mound",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 16,
+          "dex": 8,
+          "int": 5,
+          "str": 18,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 95,
+      "id": "srd:triceratops",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 17,
+          "dex": 9,
+          "int": 2,
+          "str": 22,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 84,
+      "id": "srd:troll",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 20,
+          "dex": 13,
+          "int": 7,
+          "str": 18,
+          "wis": 9
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 67,
+      "id": "srd:unicorn",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 15,
+          "dex": 14,
+          "int": 11,
+          "str": 18,
+          "wis": 17
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 82,
+      "id": "srd:vampire-spawn",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 16,
+          "dex": 16,
+          "int": 11,
+          "str": 16,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 114,
+      "id": "srd:water-elemental",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 18,
+          "dex": 14,
+          "int": 5,
+          "str": 18,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 135,
+      "id": "srd:werebear",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 17,
+          "dex": 10,
+          "int": 11,
+          "str": 19,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 67,
+      "id": "srd:wraith",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 16,
+          "dex": 16,
+          "int": 12,
+          "str": 6,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 5.0,
+      "hp_max": 73,
+      "id": "srd:xorn",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 22,
+          "dex": 10,
+          "int": 11,
+          "str": 17,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 6.0,
+      "hp_max": 114,
+      "id": "srd:chimera",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 19,
+          "dex": 11,
+          "int": 3,
+          "str": 19,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 6.0,
+      "hp_max": 123,
+      "id": "srd:drider",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 18,
+          "dex": 16,
+          "int": 13,
+          "str": 16,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 6.0,
+      "hp_max": 104,
+      "id": "srd:invisible-stalker",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 14,
+          "dex": 19,
+          "int": 10,
+          "str": 16,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 6.0,
+      "hp_max": 40,
+      "id": "srd:mage",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 11,
+          "dex": 14,
+          "int": 17,
+          "str": 9,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 6.0,
+      "hp_max": 126,
+      "id": "srd:mammoth",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 21,
+          "dex": 9,
+          "int": 3,
+          "str": 24,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 6.0,
+      "hp_max": 127,
+      "id": "srd:medusa",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 16,
+          "dex": 15,
+          "int": 12,
+          "str": 10,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 6.0,
+      "hp_max": 104,
+      "id": "srd:vrock",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 18,
+          "dex": 15,
+          "int": 8,
+          "str": 17,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 6.0,
+      "hp_max": 110,
+      "id": "srd:wyvern",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 6,
+          "con": 16,
+          "dex": 10,
+          "int": 5,
+          "str": 19,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 6.0,
+      "hp_max": 110,
+      "id": "srd:young-brass-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 17,
+          "dex": 10,
+          "int": 12,
+          "str": 19,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 6.0,
+      "hp_max": 133,
+      "id": "srd:young-white-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 18,
+          "dex": 10,
+          "int": 6,
+          "str": 18,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 7.0,
+      "hp_max": 157,
+      "id": "srd:giant-ape",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 18,
+          "dex": 14,
+          "int": 7,
+          "str": 23,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 7.0,
+      "hp_max": 110,
+      "id": "srd:oni",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 16,
+          "dex": 11,
+          "int": 14,
+          "str": 19,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 7.0,
+      "hp_max": 142,
+      "id": "srd:shield-guardian",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 3,
+          "con": 18,
+          "dex": 8,
+          "int": 7,
+          "str": 18,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 7.0,
+      "hp_max": 126,
+      "id": "srd:stone-giant",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 9,
+          "con": 20,
+          "dex": 15,
+          "int": 10,
+          "str": 23,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 7.0,
+      "hp_max": 127,
+      "id": "srd:young-black-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 17,
+          "dex": 14,
+          "int": 12,
+          "str": 19,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 7.0,
+      "hp_max": 119,
+      "id": "srd:young-copper-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 17,
+          "dex": 12,
+          "int": 16,
+          "str": 19,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 8.0,
+      "hp_max": 78,
+      "id": "srd:assassin",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 10,
+          "con": 14,
+          "dex": 16,
+          "int": 13,
+          "str": 11,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 8.0,
+      "hp_max": 78,
+      "id": "srd:cloaker",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 14,
+          "con": 12,
+          "dex": 15,
+          "int": 13,
+          "str": 17,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 8.0,
+      "hp_max": 138,
+      "id": "srd:frost-giant",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 21,
+          "dex": 9,
+          "int": 9,
+          "str": 23,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 8.0,
+      "hp_max": 136,
+      "id": "srd:hezrou",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 13,
+          "con": 20,
+          "dex": 17,
+          "int": 5,
+          "str": 19,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 8.0,
+      "hp_max": 172,
+      "id": "srd:hydra",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 7,
+          "con": 20,
+          "dex": 12,
+          "int": 2,
+          "str": 20,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 8.0,
+      "hp_max": 75,
+      "id": "srd:spirit-naga",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 14,
+          "dex": 17,
+          "int": 16,
+          "str": 18,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 8.0,
+      "hp_max": 136,
+      "id": "srd:tyrannosaurus-rex",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 9,
+          "con": 19,
+          "dex": 10,
+          "int": 2,
+          "str": 25,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 8.0,
+      "hp_max": 142,
+      "id": "srd:young-bronze-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 17,
+          "con": 19,
+          "dex": 10,
+          "int": 14,
+          "str": 21,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 8.0,
+      "hp_max": 136,
+      "id": "srd:young-green-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 17,
+          "dex": 12,
+          "int": 16,
+          "str": 19,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 9.0,
+      "hp_max": 142,
+      "id": "srd:bone-devil",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 18,
+          "dex": 16,
+          "int": 13,
+          "str": 18,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 9.0,
+      "hp_max": 133,
+      "id": "srd:clay-golem",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 18,
+          "dex": 9,
+          "int": 3,
+          "str": 20,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 9.0,
+      "hp_max": 200,
+      "id": "srd:cloud-giant",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 22,
+          "dex": 10,
+          "int": 12,
+          "str": 27,
+          "wis": 16
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 9.0,
+      "hp_max": 162,
+      "id": "srd:fire-giant",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 13,
+          "con": 23,
+          "dex": 9,
+          "int": 10,
+          "str": 25,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 9.0,
+      "hp_max": 157,
+      "id": "srd:glabrezu",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 21,
+          "dex": 15,
+          "int": 19,
+          "str": 20,
+          "wis": 17
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 9.0,
+      "hp_max": 138,
+      "id": "srd:treant",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 21,
+          "dex": 8,
+          "int": 12,
+          "str": 23,
+          "wis": 16
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 9.0,
+      "hp_max": 152,
+      "id": "srd:young-blue-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 17,
+          "con": 19,
+          "dex": 10,
+          "int": 14,
+          "str": 21,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 9.0,
+      "hp_max": 168,
+      "id": "srd:young-silver-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 19,
+          "con": 21,
+          "dex": 10,
+          "int": 14,
+          "str": 23,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 10.0,
+      "hp_max": 135,
+      "id": "srd:aboleth",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 18,
+          "con": 15,
+          "dex": 9,
+          "int": 18,
+          "str": 21,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 10.0,
+      "hp_max": 136,
+      "id": "srd:deva",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 20,
+          "con": 18,
+          "dex": 18,
+          "int": 17,
+          "str": 18,
+          "wis": 20
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 10.0,
+      "hp_max": 127,
+      "id": "srd:guardian-naga",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 18,
+          "con": 16,
+          "dex": 18,
+          "int": 16,
+          "str": 19,
+          "wis": 19
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 10.0,
+      "hp_max": 178,
+      "id": "srd:stone-golem",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 20,
+          "dex": 9,
+          "int": 3,
+          "str": 22,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 10.0,
+      "hp_max": 178,
+      "id": "srd:young-gold-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 20,
+          "con": 21,
+          "dex": 14,
+          "int": 16,
+          "str": 23,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 10.0,
+      "hp_max": 178,
+      "id": "srd:young-red-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 19,
+          "con": 21,
+          "dex": 10,
+          "int": 14,
+          "str": 23,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 11.0,
+      "hp_max": 168,
+      "id": "srd:behir",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 18,
+          "dex": 16,
+          "int": 7,
+          "str": 23,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 11.0,
+      "hp_max": 85,
+      "id": "srd:chain-devil",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 14,
+          "con": 18,
+          "dex": 15,
+          "int": 11,
+          "str": 18,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 11.0,
+      "hp_max": 161,
+      "id": "srd:djinni",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 20,
+          "con": 22,
+          "dex": 15,
+          "int": 15,
+          "str": 21,
+          "wis": 16
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 11.0,
+      "hp_max": 200,
+      "id": "srd:efreeti",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 24,
+          "dex": 12,
+          "int": 16,
+          "str": 22,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 11.0,
+      "hp_max": 136,
+      "id": "srd:gynosphinx",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 18,
+          "con": 16,
+          "dex": 15,
+          "int": 18,
+          "str": 18,
+          "wis": 18
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 11.0,
+      "hp_max": 178,
+      "id": "srd:horned-devil",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 17,
+          "con": 21,
+          "dex": 17,
+          "int": 12,
+          "str": 22,
+          "wis": 16
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 11.0,
+      "hp_max": 195,
+      "id": "srd:remorhaz",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 5,
+          "con": 21,
+          "dex": 13,
+          "int": 4,
+          "str": 24,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 11.0,
+      "hp_max": 248,
+      "id": "srd:roc",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 9,
+          "con": 20,
+          "dex": 10,
+          "int": 3,
+          "str": 28,
+          "wis": 10
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 12.0,
+      "hp_max": 99,
+      "id": "srd:archmage",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 12,
+          "dex": 14,
+          "int": 20,
+          "str": 10,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 12.0,
+      "hp_max": 153,
+      "id": "srd:erinyes",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 18,
+          "con": 18,
+          "dex": 16,
+          "int": 14,
+          "str": 18,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 13.0,
+      "hp_max": 172,
+      "id": "srd:adult-brass-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 17,
+          "con": 21,
+          "dex": 10,
+          "int": 14,
+          "str": 23,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 13.0,
+      "hp_max": 200,
+      "id": "srd:adult-white-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 22,
+          "dex": 10,
+          "int": 8,
+          "str": 22,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 13.0,
+      "hp_max": 184,
+      "id": "srd:nalfeshnee",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 15,
+          "con": 22,
+          "dex": 10,
+          "int": 19,
+          "str": 21,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 13.0,
+      "hp_max": 110,
+      "id": "srd:rakshasa",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 20,
+          "con": 18,
+          "dex": 17,
+          "int": 13,
+          "str": 14,
+          "wis": 16
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 13.0,
+      "hp_max": 230,
+      "id": "srd:storm-giant",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 18,
+          "con": 20,
+          "dex": 14,
+          "int": 16,
+          "str": 29,
+          "wis": 18
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 13.0,
+      "hp_max": 144,
+      "id": "srd:vampire",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 18,
+          "con": 18,
+          "dex": 18,
+          "int": 17,
+          "str": 18,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 14.0,
+      "hp_max": 195,
+      "id": "srd:adult-black-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 17,
+          "con": 21,
+          "dex": 14,
+          "int": 14,
+          "str": 23,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 14.0,
+      "hp_max": 184,
+      "id": "srd:adult-copper-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 17,
+          "con": 21,
+          "dex": 12,
+          "int": 18,
+          "str": 23,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 14.0,
+      "hp_max": 180,
+      "id": "srd:ice-devil",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 18,
+          "con": 18,
+          "dex": 14,
+          "int": 18,
+          "str": 21,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 15.0,
+      "hp_max": 212,
+      "id": "srd:adult-bronze-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 19,
+          "con": 23,
+          "dex": 10,
+          "int": 16,
+          "str": 25,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 15.0,
+      "hp_max": 207,
+      "id": "srd:adult-green-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 17,
+          "con": 21,
+          "dex": 12,
+          "int": 18,
+          "str": 23,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 15.0,
+      "hp_max": 97,
+      "id": "srd:mummy-lord",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 17,
+          "dex": 10,
+          "int": 11,
+          "str": 18,
+          "wis": 18
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 15.0,
+      "hp_max": 247,
+      "id": "srd:purple-worm",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 4,
+          "con": 22,
+          "dex": 7,
+          "int": 1,
+          "str": 28,
+          "wis": 8
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 16.0,
+      "hp_max": 225,
+      "id": "srd:adult-blue-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 19,
+          "con": 23,
+          "dex": 10,
+          "int": 16,
+          "str": 25,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 16.0,
+      "hp_max": 243,
+      "id": "srd:adult-silver-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 21,
+          "con": 25,
+          "dex": 10,
+          "int": 16,
+          "str": 27,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 16.0,
+      "hp_max": 210,
+      "id": "srd:iron-golem",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 1,
+          "con": 20,
+          "dex": 9,
+          "int": 3,
+          "str": 24,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 16.0,
+      "hp_max": 189,
+      "id": "srd:marilith",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 20,
+          "con": 20,
+          "dex": 20,
+          "int": 18,
+          "str": 18,
+          "wis": 16
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 16.0,
+      "hp_max": 200,
+      "id": "srd:planetar",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 25,
+          "con": 24,
+          "dex": 20,
+          "int": 19,
+          "str": 24,
+          "wis": 22
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 17.0,
+      "hp_max": 256,
+      "id": "srd:adult-gold-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 24,
+          "con": 25,
+          "dex": 14,
+          "int": 16,
+          "str": 27,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 17.0,
+      "hp_max": 256,
+      "id": "srd:adult-red-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 21,
+          "con": 25,
+          "dex": 10,
+          "int": 16,
+          "str": 27,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 17.0,
+      "hp_max": 199,
+      "id": "srd:androsphinx",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 23,
+          "con": 20,
+          "dex": 10,
+          "int": 16,
+          "str": 22,
+          "wis": 18
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 17.0,
+      "hp_max": 341,
+      "id": "srd:dragon-turtle",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 12,
+          "con": 20,
+          "dex": 10,
+          "int": 10,
+          "str": 25,
+          "wis": 12
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 19.0,
+      "hp_max": 262,
+      "id": "srd:balor",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 22,
+          "con": 22,
+          "dex": 15,
+          "int": 20,
+          "str": 26,
+          "wis": 16
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 20.0,
+      "hp_max": 297,
+      "id": "srd:ancient-brass-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 19,
+          "con": 25,
+          "dex": 10,
+          "int": 16,
+          "str": 27,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 20.0,
+      "hp_max": 333,
+      "id": "srd:ancient-white-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 14,
+          "con": 26,
+          "dex": 10,
+          "int": 10,
+          "str": 26,
+          "wis": 13
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 20.0,
+      "hp_max": 300,
+      "id": "srd:pit-fiend",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 24,
+          "con": 24,
+          "dex": 14,
+          "int": 22,
+          "str": 26,
+          "wis": 18
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 21.0,
+      "hp_max": 367,
+      "id": "srd:ancient-black-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 19,
+          "con": 25,
+          "dex": 14,
+          "int": 16,
+          "str": 27,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 21.0,
+      "hp_max": 350,
+      "id": "srd:ancient-copper-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 19,
+          "con": 25,
+          "dex": 12,
+          "int": 20,
+          "str": 27,
+          "wis": 17
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 21.0,
+      "hp_max": 135,
+      "id": "srd:lich",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 16,
+          "con": 16,
+          "dex": 16,
+          "int": 20,
+          "str": 11,
+          "wis": 14
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 21.0,
+      "hp_max": 243,
+      "id": "srd:solar",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 30,
+          "con": 26,
+          "dex": 22,
+          "int": 25,
+          "str": 26,
+          "wis": 25
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 22.0,
+      "hp_max": 444,
+      "id": "srd:ancient-bronze-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 21,
+          "con": 27,
+          "dex": 10,
+          "int": 18,
+          "str": 29,
+          "wis": 17
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 22.0,
+      "hp_max": 385,
+      "id": "srd:ancient-green-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 19,
+          "con": 25,
+          "dex": 12,
+          "int": 20,
+          "str": 27,
+          "wis": 17
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 23.0,
+      "hp_max": 481,
+      "id": "srd:ancient-blue-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 21,
+          "con": 27,
+          "dex": 10,
+          "int": 18,
+          "str": 29,
+          "wis": 17
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 23.0,
+      "hp_max": 487,
+      "id": "srd:ancient-silver-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 23,
+          "con": 29,
+          "dex": 10,
+          "int": 18,
+          "str": 30,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 23.0,
+      "hp_max": 472,
+      "id": "srd:kraken",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 20,
+          "con": 25,
+          "dex": 11,
+          "int": 22,
+          "str": 30,
+          "wis": 18
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 24.0,
+      "hp_max": 546,
+      "id": "srd:ancient-gold-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 28,
+          "con": 29,
+          "dex": 14,
+          "int": 18,
+          "str": 30,
+          "wis": 17
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 24.0,
+      "hp_max": 546,
+      "id": "srd:ancient-red-dragon",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 23,
+          "con": 29,
+          "dex": 10,
+          "int": 18,
+          "str": 30,
+          "wis": 15
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 30.0,
+      "hp_max": 676,
+      "id": "srd:tarrasque",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 11,
+          "con": 30,
+          "dex": 11,
+          "int": 3,
+          "str": 30,
+          "wis": 11
+        }
+      }
+    }
+  ]
+}
