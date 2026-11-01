@@ -5460,6 +5460,23 @@
     },
     {
       "attribution": "SRD 5.2.1 / CC-BY 4.0",
+      "cr_numeric": 25.0,
+      "hp_max": 546,
+      "id": "srd:colossus",
+      "source": "srd-5.2.1",
+      "stat_block_json": {
+        "ability_scores": {
+          "cha": 8,
+          "con": 30,
+          "dex": 11,
+          "int": 3,
+          "str": 30,
+          "wis": 11
+        }
+      }
+    },
+    {
+      "attribution": "SRD 5.2.1 / CC-BY 4.0",
       "cr_numeric": 30.0,
       "hp_max": 676,
       "id": "srd:tarrasque",
