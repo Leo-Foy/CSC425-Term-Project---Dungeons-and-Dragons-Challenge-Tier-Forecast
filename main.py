@@ -1,5 +1,5 @@
 import pandas as pd
-import json\
+import json
 
 with open("Data/monsters_attributes_parsed.json", "r", encoding="utf-8") as file:
     data = json.load(file)
@@ -32,6 +32,28 @@ y_pred = dtc.predict(X_test)
 from sklearn.metrics import classification_report
 
 print(classification_report(y_test, y_pred))
+
+features = pd.DataFrame(dtc.feature_importances_, index= X.columns)
+
+print(features.head(7))
+
+
+
+user_input = {
+    "hp_max": 150,
+    "stat_block_json.ability_scores.cha": 18,
+    "stat_block_json.ability_scores.con": 16,
+    "stat_block_json.ability_scores.dex": 13,
+    "stat_block_json.ability_scores.int": 20,
+    "stat_block_json.ability_scores.str": 11,
+    "stat_block_json.ability_scores.wis": 12
+}
+
+df = pd.DataFrame([user_input])
+
+y_pred = dtc.predict(df)
+
+print(y_pred[0])
 
 
 
